@@ -7,10 +7,7 @@ body {
     scroll-behavior: smooth;
   }
 
-  #top {
-  position: absolute;
-  top: 0;
-}
+
 
   header {
     background-color: #000000;
